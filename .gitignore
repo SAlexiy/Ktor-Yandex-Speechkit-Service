@@ -33,7 +33,5 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/consts\
-consts\
-CloudKeys.kt
-Urls.kt
+.vscode/
+/src/main/kotlin/com/example/consts/
